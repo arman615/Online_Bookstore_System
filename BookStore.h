@@ -2,8 +2,8 @@
 #define BookStore_H
 
 #include <vector>
-#include "book.h"
-#include "customer.h"
+#include "Book.h"
+#include "Customer.h"
 
 class BookStore {
 private:
